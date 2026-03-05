@@ -40,8 +40,3 @@ https://github.com/salunkheh/SampleGitHubAction
 
 LinkedIn: https://www.linkedin.com/in/harish-salunkhe/
 Email: salunkheharish@gmail.com
-
-
-
-🔹 API Automation Framework  
-(Add API repo)
